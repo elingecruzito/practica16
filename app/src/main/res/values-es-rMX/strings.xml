@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica16</string>
+
+    <string name="desc_read">La segunda entrega de la franquicia Red Dead Redemption llega tras varios años de espera. Aquí de nueva cuenta te enfundarás en la vestimenta de vaquero y con pistola en mano te abrirás paso por un Salvaje Oeste donde impera la ley del plomo. Aparte del modo campaña, podrás continuar con tus andanzas de forajido en el modo multijugador online completamente reinventado.</string>
+    <string name="desc_sekiro">Este título de rol, acción y sigilo te traslada al Japón feudal de finales de 1,500 en la época Sengoku. Allí estarás en el papel de un ninja que debe seguir los pasos de su maestro a través de la exploración de extensos territorios donde deberá luchar contra diversas adversidades.</string>
+    <string name="desc_gears">Gears of War 4 es el nombre oficial de la siguiente entrega de la serie Gears of War. Gears of War 4 toma lugar 25 años después de que el arma imulsion Countermeasure destruyera a los Locust, Lambent e Imulsion. Sin embargo, un daño colateral fue la pérdida casi total de combustibles fósiles, así mismo los humanos han creado fortalezas a lo largo de Sera con la esperanza de detener los peligros del “exterior”, a esta situación se suman problemas políticos con la Coalition of Governments quienes en búsqueda de “un mejor futuro” han tomado medidas estrictas en contra del libre albedrio de la población restante. El juego se centra en JD Fenix (hijo de Marcus Fenix) y sus amigos Delmont Walker y Kait Diaz.</string>
+    <string name="desc_fallout">Una nueva entrega de la épica franquicia postapocalíptica de Bethesda de la cual aún se desconocen la mayoría de sus detalles.</string>
+    <string name="desc_ori">Un juego de plataformas 2D creado por Moon Studios, un estudio del propio Microsoft. Con un estilo visual colorista y llamativo, el juego nos reta a explorar niveles, consiguiendo nuevas habilidades y abriendo nuevos caminos que podremos seguir recorriendo.</string>
+</resources>

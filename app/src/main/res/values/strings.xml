@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica16</string>
+
+    <string name="desc_read">The second installment of the Red Dead Redemption franchise arrives after several years of waiting. Here again you will dress up in cowboy clothing and with a gun in hand you will make your way through a Wild West where the law of lead prevails. Aside from the campaign mode, you can continue your outlaw adventures in the completely reimagined online multiplayer mode.</string>
+    <string name="desc_sekiro">This stealth action role-playing title takes you to feudal Japan in the late 1500s in the Sengoku era. There you will be in the role of a ninja who must follow in the footsteps of his master through the exploration of extensive territories where he must fight against various adversities.</string>
+    <string name="desc_gears">Gears of War 4 is the official name of the next installment in the Gears of War series. Gears of War 4 takes place 25 years after the Imulsion Countermeasure weapon destroyed the Locust, Lambent, and Imulsion. However, a collateral damage was the almost total loss of fossil fuels, likewise humans have created fortresses throughout Sera in the hope of stopping the dangers from "outside", to this situation are added political problems with the Coalition of Governments who in search of "a better future" have taken strict measures against the free will of the remaining population. The game focuses on JD Fenix ​​(son of Marcus Fenix) and his friends Delmont Walker and Kait Diaz.</string>
+    <string name="desc_fallout">A new installment of Bethesda s epic post-apocalyptic franchise of which most of its details are still unknown.</string>
+    <string name="desc_ori">A 2D platform game created by Moon Studios, a Microsoft studio. With a colorful and striking visual style, the game challenges us to explore levels, gaining new abilities and opening new paths that we can continue to travel.</string>
+</resources>
